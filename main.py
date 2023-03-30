@@ -5,7 +5,7 @@ import webbrowser
 import time
 
 url = "chrome://dino/"
-chrome_path = "C:/Program Files/Google/Chrome/Application/chrome.exe %s"
+chrome_path = "Yourfilepathtochrome %s"
 
 shape = [(400, 250), (450, 300)]
 
